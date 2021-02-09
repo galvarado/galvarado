@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**galvarado/galvarado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm [Guillermo!](https://galvarado.com.mx) 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://twitter.com/galvarado">
+  <img align="left" alt="Guillermo Alvarado | Twitter" width="21px" src="https://raw.githubusercontent.com/galvarado/galvarado/main/assets/twitter.svg" />
+</a>
+
+<br />
+<br />
+
+Hi, I'm Guillermo Alvarado, a Software Engineer who turned to the dark side, the IT infrastructure world.I work with Cloud, DevOps, CI/CD, Containers and more...
+
+- 🔭 I’m currently working on [sentinel.la](https://sentinel.la)
+- 🌱 I’m currently learning Hashicorp Packer
+- 💬 Ask me about anything, feel free to contact me at [LinkedIN](https://www.linkedin.com/in/guillermoalvarado89/
