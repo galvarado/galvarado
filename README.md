@@ -7,4 +7,4 @@ Hi, I'm Guillermo Alvarado, a Software Engineer who turned to the dark side, the
 
 - 🔭 I’m currently working at [Sentinel.la](https://sentinel.la)
 - 🌱 I write my experience at [My blog](https://galvarado.com.mx)
-- 💬 Feel free to contact me at [LinkedIm](https://www.linkedin.com/in/guillermoalvarado89/)
+- 💬 Feel free to contact me at [LinkedIn](https://www.linkedin.com/in/guillermoalvarado89/)
