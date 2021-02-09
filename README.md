@@ -1,7 +1,3 @@
-
-### Hi there 👋, my name is Guillermo 
-
-
 ### Hi there, I'm [Guillermo!](https://galvarado.com.mx) 👋
 
 <br />
