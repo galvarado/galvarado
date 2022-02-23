@@ -4,7 +4,6 @@
 
 Hi, I'm Guillermo Alvarado, a Software Engineer who turned to the dark side, the IT infrastructure world.I work with Cloud, DevOps, CI/CD, Containers and more...
 
-- 🔭 I’m currently working at [Sentinel.la](https://sentinel.la)
 - 🌱 I write my experience at [My Blog](https://galvarado.com.mx)
 - 👯 I’m looking to collaborate on Python, Go, Cloud, DevOps, SRE  
 - 💬 Feel free to contact me at the following networks 
