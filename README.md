@@ -1,7 +1,7 @@
 
 
 <div style="text-align: center;">
-<img src='https://galvarado.com.mx/images/logo.png' width='100' alt='profile' > 
+<img src='https://galvarado.com.mx/images/logo.png' width='300' alt='profile' > 
 </div> 
 
 ### Hi there, I'm [Guillermo!](https://galvarado.com.mx) 👋
