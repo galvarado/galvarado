@@ -2,7 +2,9 @@
 ### Hi there, I'm [Guillermo!](https://galvarado.com.mx) 👋
 
 <br />
- <center> <img src='https://galvarado.com.mx/images/logosmall.png' width='100' alt='profile' > </center> 
+<div style="text-align: center;">
+<img src='https://galvarado.com.mx/images/logosmall.png' width='100' alt='profile' > 
+</div> 
 
 Hi, I'm Guillermo Alvarado, a Software Engineer who turned to the dark side, the IT infrastructure world.I work with Cloud, DevOps, CI/CD, Containers and more...
 
